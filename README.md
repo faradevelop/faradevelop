@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ## Socials
 <div align="left">
   <a href="mailto:fatemehrasoulifar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/faradev"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
   
                     
