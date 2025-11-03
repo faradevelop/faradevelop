@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Fatemeh Rasoulifar (FARA), a passionate Flutter Developer with solid experience in building intuitive. My expertise lies in creating applications with intuitive and efficient user interfaces using Flutter. I am dedicated to continuous learning and seeking new opportunities to grow and make contributions to innovative Flutter projects.
+I'm Fatemeh Rasoulifar (Fara), a dedicated Flutter Developer with solid experience in building high-quality, user-centric mobile applications. My focus is on crafting clean, intuitive, and efficient user interfaces using Flutter. I’m passionate about continuous learning, refining my skills, and contributing to innovative projects that push the boundaries of mobile development.
 
 
 <!--
